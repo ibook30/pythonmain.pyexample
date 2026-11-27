@@ -1,1 +1,1 @@
-Ubuntu get practice
+Ubuntu git practice
